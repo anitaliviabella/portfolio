@@ -1,6 +1,6 @@
 # Projects, prototypes, thesis and papers.
 
-**Bachelor's thesis**: <https://apollo11moonlonding.github.io/home/dist/index.html#page-top>
+**Bachelor's thesis**: <https://github.com/anitaliviabella/Bachelor-s-thesis/blob/main/Uno%20sguardo%20alla%20rivoluzione%20bolscevica%20cento%20anni%20dopo%20-%20liviabella%20(1)%20(1)%20(1).pdf>
 
 **Knowledge Organization and Cultural Heritage**: <https://apollo11moonlonding.github.io/home/dist/index.html#page-top>
 
